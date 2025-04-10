@@ -7,7 +7,15 @@ class TestCalc(unittest.TestCase): # pick any name you want for this class. it i
         self.assertEqual(calc.add(-1,-1), -2) # added some boundary / problematic conditions
         self.assertEqual(calc.add(-1, 1), 0) # even if we have many methods, all this still counts as a single test.
 
+    def test_subtract(self): # all methods from the TestCalc class must start with "test_" so that they run properly
+        self.assertEqual(calc.subtract(10, 5), 5)
 
+    def test_multiply(self): # all methods from the TestCalc class must start with "test_" so that they run properly
+        self.assertEqual(calc.multiply(10, 5), 50)
+
+    def test_divide(self): # all methods from the TestCalc class must start with "test_" so that they run properly
+        self.assertEqual(calc.divide(10, 5), 2)
+        self.assertEqual(calc.divide(5, 2), 2.5)
 
 if __name__ == '__main__':
     unittest.main()
