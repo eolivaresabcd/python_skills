@@ -17,6 +17,9 @@ class TestCalc(unittest.TestCase): # pick any name you want for this class. it i
         self.assertEqual(calc.divide(10, 5), 2)
         self.assertEqual(calc.divide(5, 2), 2.5)
 
+        with self.assertRaises(ValueError):     
+            calc.divide(10, 0) # 10 and 0 are the values that we pass our function calc.divide
+
 if __name__ == '__main__':
     unittest.main()
 
