@@ -1,4 +1,5 @@
 import unittest
+from unittest.mock import patch
 from employee import Employee
 
 
@@ -52,5 +53,23 @@ class TestEmployee(unittest.TestCase):
         self.assertEqual(self.emp1.pay, 52500)
         self.assertEqual(self.emp2.pay, 63000)
 
+    def test_monthly_schedule(self): 
+        #here we are patching the requests.get method, so that we don't have to actually make a request to the webpage.
+        with patch('employee.requests.get') as mocked_get:
+            mocked_get.return_value.ok = True # we are forcing the response to be ok, so that we can test the happy path.
+            mocked_get.return_value.text = 'Success' # the response text is what we expect to get from the webpage.
+
+            # once we have mocked the response, we run the method that we want to test.
+            schedule = self.emp1.monthly_schedule('May')
+            mocked_get.assert_called_with('http://company.com/Schafer/May')
+            self.assertEqual(schedule, 'Success')
+
+            mocked_get.return_value.ok = False # we are forcing the response to be not ok, so that we can test the unhappy path.
+
+            # once we have mocked the response, we run the method that we want to test.
+            schedule = self.emp2.monthly_schedule('June')
+            mocked_get.assert_called_with('http://company.com/Smith/June')
+            self.assertEqual(schedule, 'Bad Response!') # this string must be the same as the one in the 
+                                                        # method that we are testing, so that the test passes.
 if __name__ == '__main__':
     unittest.main()
