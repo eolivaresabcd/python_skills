@@ -1,1 +1,1 @@
-this project is all about unit testing in python
+this is the code-along project following the YT tutorial at https://www.youtube.com/watch?v=6tNS--WetLI

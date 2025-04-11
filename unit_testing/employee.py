@@ -1,6 +1,6 @@
 class Employee:
 
-    raise_amt = 0.5
+    raise_amt = 1.05
 
     def __init__(self, first, last, pay):
         self.first = first
@@ -15,6 +15,7 @@ class Employee:
     def fullname(self):
         return "{} {}".format(self.first, self.last)
     
-    @property
+    # as you can see, this is not a property, but a method
+    # because it modifies the state of the object
     def apply_raise(self):
         self.pay = int(self.pay * self.raise_amt)
