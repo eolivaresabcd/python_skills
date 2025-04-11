@@ -7,6 +7,18 @@ class TestEmployee(unittest.TestCase):
     # this is why we must keep the tests independent of each other.
     # if one test fails, the other tests should still run.
 
+    @classmethod # by using this classmethod decorator, we are telling unittest that this method is a class method.
+    # this means that it will be called on the class itself, not on an instance of the class.
+    def setUpClass(cls): # these must be camel case
+        # This method is called once before all tests
+        print('setUpClass')
+
+    @classmethod # by using this classmethod decorator, we are telling unittest that this method is a class method.
+    # this means that it will be called on the class itself, not on an instance of the class.
+    def tearDownClass(cls): # these must be camel case
+        # This method is called once after all tests
+        print('tearDownClass')  
+
     def setUp(self): # these must be camel case
         # This method is called before every test
         print('setUp')
