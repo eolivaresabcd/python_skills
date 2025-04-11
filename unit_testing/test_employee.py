@@ -4,38 +4,31 @@ from employee import Employee
 
 class TestEmployee(unittest.TestCase):
 
+    def setUp(self): # these must be camel case
+        # This method is called before every test
+        self.emp1 = Employee('Corey', 'Schafer', 50000) # we must use self. to make it an instance atribute.
+        self.emp2 = Employee('Sue', 'Smith', 60000) # we must use self. to make it an instance atribute.
+    
+    def tearDown(self): # these must be camel case
+        # This method is called after every test
+        return super().tearDown()
+
     def test_email(self):
-        emp_1 = Employee('Corey', 'Schafer', 50000)
-        emp_2 = Employee('Sue', 'Smith', 60000)
 
-        self.assertEqual(emp_1.email, 'Corey.Schafer@email.com')
-        self.assertEqual(emp_2.email, 'Sue.Smith@email.com')
-
-        emp_1.first = 'John'
-        emp_2.first = 'Jane'
-
-        self.assertEqual(emp_1.email, 'John.Schafer@email.com')
-        self.assertEqual(emp_2.email, 'Jane.Smith@email.com')
+        self.assertEqual(self.emp1.email, 'Corey.Schafer@email.com')
+        self.assertEqual(self.emp2.email, 'Sue.Smith@email.com')
 
     def test_fullname(self):
-        emp_1 = Employee('Corey', 'Schafer', 50000)
-        emp_2 = Employee('Sue', 'Smith', 60000)
 
-        emp_1.first = 'John'
-        emp_2.first = 'Jane'
-
-        self.assertEqual(emp_1.fullname, 'John Schafer')
-        self.assertEqual(emp_2.fullname, 'Jane Smith')
+        self.assertEqual(self.emp1.fullname, 'Corey Schafer')
+        self.assertEqual(self.emp2.fullname, 'Sue Smith')
 
     def test_apply_raise(self):
-        emp_1 = Employee('Corey', 'Schafer', 50000)
-        emp_2 = Employee('Sue', 'Smith', 60000)
+        self.emp1.apply_raise()
+        self.emp2.apply_raise()s
 
-        emp_1.apply_raise()
-        emp_2.apply_raise()
-
-        self.assertEqual(emp_1.pay, 52500)
-        self.assertEqual(emp_2.pay, 63000)
+        self.assertEqual(self.emp1.pay, 52500)
+        self.assertEqual(self.emp2.pay, 63000)
 
 if __name__ == '__main__':
     unittest.main()
