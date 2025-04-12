@@ -2,7 +2,11 @@ import os
 from textetl import TextETL
 
 os.chdir('./text_ETL_tools') # Change to the directory where the script is located
-input_file = './input_file.txt'
+input_file = './gravitacion.txt'
 output_file = 'output_file.txt'
+
 etl = TextETL(input_file, output_file)
-etl.run()
+
+# limpiamos lineas con texto no deseado
+texto_no_deseado = ["enrique@fiquipedia.es", "Ejercicios Física PAU Comunidad de Madrid", "Página"]
+etl.limpiar_problemas(input_file, texto_no_deseado)

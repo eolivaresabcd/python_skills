@@ -1,0 +1,1595 @@
+2003-Septiembre
+2025-Modelo
+1. Un equipo de astronautas se dirige a un planeta de masa desconocida. Con el objetivo de
+poder determinar su masa una vez que estén en su superficie, previamente calibran un muelle en
+la Tierra suspendiendo del mismo distintas masas. La gráfica que obtienen se puede ver en la
+figura 1.
+Figura 1: Elongación del muelle en la superficie de la Tierra
+Cuando llegan al planeta desconocido utilizan las mismas masas y miden la elongación del
+muelle, para así determinar la gravedad en la superficie. En este caso, obtienen la gráfica de la
+figura 2.
+Figura 2: Elongación del muelle en la superficie del planeta desconocido
+a) Halle la constante del muelle utilizando la gráfica de la figura 1, aproximando el valor de la
+aceleración de la gravedad en la superficie de la Tierra como g = 10 m s−2
+.
+b) Determine la aceleración de la gravedad en la superficie del planeta utilizando la gráfica de la
+figura 2.
+c) Sabiendo que el radio del planeta es de 3,5·103
+ km, calcule la masa del planeta.
+Dato: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2
+.
+El modelo PAU 2025 de Euskadi actualizado el 18/11/2024 incluye este mismo enunciado.
+2024-Julio-Coincidentes
+A.1. Un planeta describe una órbita elíptica alrededor de una estrella de masa 2,34·1030 kg. La
+distancia mínima entre el planeta y la estrella es de 2,67·1011 m y su periodo de revolución
+alrededor de la estrella es 7,43 años. Si la velocidad mínima del planeta en la órbita es
+8,61·103
+ m s−1
+ ,
+a) Calcule la distancia máxima entre el planeta y la estrella y halle la velocidad máxima del planeta
+en la órbita.
+b) Determine la velocidad del planeta cuando se encuentra a 5·1011 m de la estrella.
+2003-Septiembre
+Dato: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2
+.
+B.1. Uno de los proyectos más ambiciosos de Elon Musk es Starlink, una red de satélites
+diseñada para proporcionar acceso a Internet de alta velocidad en todo el mundo. Cada uno de
+estos satélites tiene una masa de 250 kg y orbita a una altura de 1200 km sobre la superficie de la
+Tierra. Si suponemos que las órbitas descritas por estos satélites son circulares, calcule:
+a) La fuerza que actúa sobre cada uno de los satélites y la distancia que recorre cada día.
+b) La energía que se le debería suministrar a uno de estos satélites para que orbite en una órbita
+circular de altura doble que la anterior.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2;
+Masa de la Tierra, MT = 5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+2024-Julio
+A.1. Un satélite de comunicaciones orbita alrededor de la Tierra en una trayectoria elíptica cuyo
+apogeo se encuentra a 39700 km de altitud sobre la superficie de la Tierra. Si el satélite da una
+vuelta completa cada 12 h, determine:
+a) La altura sobre la superficie terrestre a la que se encontrará el satélite en el perigeo de su
+trayectoria y la relación entre sus velocidades en el perigeo y en el apogeo (vp/va).
+b) La velocidad del satélite en el perigeo y la velocidad hasta la que habría que reducir al satélite
+para que pasase de una órbita elíptica a una órbita circular de radio igual a la distancia al perigeo.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B.1. Dos planetas de masas iguales orbitan en torno a una estrella de masa mucho mayor. El
+primero de los planetas tiene una órbita circular de radio 1,2·1011 m y un período de 3 años. El
+segundo planeta sigue una órbita elíptica tal que la distancia más próxima a la estrella es de
+1,0·1011 m y la más lejana de 1,8·1011 m.
+a) Determine la masa de la estrella y el período del segundo planeta.
+b) Calcule la velocidad orbital del primer planeta y, sabiendo que su energía mecánica en su órbita
+circular es de −3,8·1030 J, halle la masa de los planetas.
+Dato: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2
+.
+2024-Junio-Coincidentes
+A.1. El cometa Halley, con una masa de 2,2·1014 kg, describe una órbita elíptica alrededor del Sol
+con un periodo de 75,571 años. En su afelio, situado a 5,26·1012 m del Sol, posee una velocidad
+orbital de 900 m s−1
+.
+a) Obtenga la energía mecánica del cometa y el módulo de su momento angular.
+b) Halle el semieje mayor de su trayectoria elíptica y la velocidad orbital del cometa en el perihelio.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2;
+Masa del Sol, MS = 1,99·1030 kg.
+B.1. El planeta Urano posee una densidad de 1,27 g cm⋅
+-3 y un radio de 2,54 10 ⋅
+7
+ m. Una sonda
+espacial de 250 kg gira en una órbita circular alrededor del planeta, con una velocidad orbital de
+9,5 km s⋅
+-1
+.
+a) Calcule la masa de Urano y la aceleración centrípeta de la sonda en su movimiento orbital.
+b) Si la sonda aumenta su velocidad orbital en 2 km s-1 en dirección tangencial al encender sus
+motores, obtenga la nueva energía mecánica que alcanzará y razone si la sonda espacial con esa
+energía mecánica escapará del campo gravitatorio del planeta.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2
+.
+2024-Junio
+A.1. La distancia del satélite Halimede a Neptuno, planeta alrededor del cual orbita, varía entre 12
+y 21 millones de km.
+a) Calcule el trabajo realizado por la atracción gravitatoria de Neptuno sobre Halimede en el
+tránsito del punto más próximo al más distante de la órbita.
+b) Sabiendo que la energía mecánica de Halimede vale −2,5·1020 J, determine la velocidad
+máxima que alcanza en su órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2; Masa de Halimede, MH =
+1,60·1015 kg; Masa de Neptuno, MN = 1,02·1026 kg.
+B.1. Un satélite de 200 kg de masa se mueve en una órbita cerrada alrededor de la Tierra. En un
+determinado instante, es detectado a 630 km de altura, moviéndose a 9,92 km s−1 con velocidad
+perpendicular a la dirección radial.
+a) Compare la velocidad del satélite con la correspondiente a una órbita circular de la altura dada
+2003-Septiembre
+y del resultado anterior, razone si la órbita es circular o elíptica.
+b) Calcule los módulos del momento angular y de la aceleración del satélite en el instante
+señalado.
+Datos: Constante de Gravitación Universal, G = 6,67·10−11 N m2
+ kg−2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+2024-Modelo
+A.1. La sonda Parker de la NASA tiene por objetivo estudiar por primera vez la corona solar. Con
+ese propósito describe una órbita elíptica alrededor del Sol con un afelio de 1,1·108
+ km y un
+perihelio de 7,6·106
+ km. Determine:
+a) El semieje mayor de la elipse y el tiempo que tarda la sonda en dar una vuelta completa al Sol.
+b) La velocidad de la sonda en el afelio y en el perihelio de la órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa del Sol, MS = 1,99·1030 kg.
+B.1. Un astronauta en misión de exploración aterriza sobre un planeta esférico de radio 1800 km.
+Cuando se encuentra en su superficie deja caer un objeto desde una altura de 2 m y observa que
+éste tarda 1,5 s en llegar al suelo.
+a) Determine el valor de la gravedad en la superficie del planeta y la masa de éste.
+b) El astronauta despega en su cohete con una velocidad de 3 km s-1. Compruebe si el astronauta
+escapará del planeta, y en caso afirmativo, calcule la velocidad que tendrá cuando se encuentre
+muy alejado de éste.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2023-Julio
+A.1. El satélite UPM-Sat2 se lanzó el día 3 de septiembre de 2020 a una órbita circular alrededor
+de la Tierra con un período de 5710 s. Sabiendo que el satélite tiene una masa de 50 kg, calcule:
+a) La altura a la que orbita y la energía que hubo que transmitirle para ponerlo en órbita desde la
+superficie de la Tierra.
+b) La velocidad y la aceleración centrípeta en su órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B.1. En su aproximación al planeta Fomalhaut II, el astronauta Rocannon avista
+Fomalhautillo, satélite natural de Fomalhaut II, según un ángulo α = 53,13º con
+respecto de la radial hacia el planeta (eje y). La fuerza total que estos dos cuerpos
+ejercen sobre Rocannon y su nave, cuya masa conjunta asciende a 8000 kg, vale
+en ese momento ⃗F=(9,5⃗i −66 , 4 ⃗j)N .
+a) ¿A qué distancia R’ se encuentra Rocannon del satélite?
+b) ¿A qué distancia R se encuentra Rocannon del planeta?
+Datos: Masa del planeta, M = 4·1023 kg; Masa del satélite, M’ = 2·1020 kg;
+Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2023-Junio-Coincidentes
+A.1. El astronauta Rocannon se ha situado en una órbita circular de 4,36 h de período alrededor
+de Fomalhaut II, un planeta de 4·1023 kg de masa y 5000 km de radio.
+a) Obtenga la altura de la órbita sobre la superficie de Fomalhaut II.
+b) Rocannon dispone de 1,5·1010 J para escapar de Fomalhaut II desde la órbita en que se halla.
+Determine el valor máximo que puede tener la masa conjunta de Rocannon y su nave para lograr
+escapar con esa energía.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Una partícula de masa de 5·104
+ kg se encuentra fija en el punto (6, 8) cm del plano xy.
+a) Calcule el campo gravitatorio que dicha partícula genera en el origen de coordenadas.
+Desde el origen de coordenadas lanzamos una segunda partícula de masa 25 mg con una
+velocidad de 5 mm s-1 según la dirección que une ambas partículas alejándola de la primera.
+b) Obtenga la distancia máxima a la que llegará la segunda partícula con respecto a la primera.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2023-Junio
+A.1. Un satélite de la constelación OneWeb®
+, de 150 kg de masa, se encuentra en una órbita
+circular alrededor de la Tierra a una altura de 1200 km sobre el nivel del mar. Determine:
+a) Las energías potencial gravitatoria y cinética que tiene el satélite en su órbita.
+b) La energía que fue necesario comunicar al satélite para ponerlo en órbita desde la superficie de
+2003-Septiembre
+la Tierra.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B.1. En la película Space Cowboys un amenazador satélite militar orbita alrededor de la Tierra a
+una altura de 1600 km sobre la superficie terrestre.
+a) Calcule la velocidad orbital del satélite y el tiempo que tarda en dar una vuelta completa
+alrededor de la Tierra. Desprecie en este
+apartado la interacción gravitatoria de la Luna.
+b) Para evitar que el satélite caiga a la Tierra
+se decide impulsarlo hacia la Luna. Determine
+la distancia x al centro de la Tierra, tal y como
+se muestra en la figura, a la que tendrá que
+llegar el satélite, para que el efecto del campo
+gravitatorio lunar sea superior al del campo
+gravitatorio terrestre.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra; RT = 6,37·103
+ km; Masa de la Luna, ML = 7,35·1022 kg; Distancia
+de la Tierra a la Luna, d = 3,84·105
+ km.
+2023-Modelo
+A.1. Un satélite de 400 kg de masa orbita alrededor de la Tierra describiendo una órbita circular a
+una altura de 15000 km. Calcule:
+a) La energía que hubo que transmitirle para ponerlo en órbita desde la superficie de la Tierra y su
+periodo.
+b) La energía mínima que hay que suministrarle para que escape de la atracción gravitatoria
+terrestre desde su órbita actual.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B.1. Dos masas m1 = 10 kg y m2 = 15 kg se encuentran
+situadas en los puntos (0, 0) m y (2, 0) m
+respectivamente, del plano xy.
+a) Calcule la fuerza gravitatoria debida a las masas m1 y
+m2 que experimentará una masa de 5 kg situada en el
+punto (2, 1) m.
+b) Halle el trabajo que realiza el campo gravitatorio
+creado por la masa m1 cuando la masa m2 se desplaza
+del punto (2, 0) m al punto (0, 1) m a través de los tres
+caminos representados en la figura, asumiendo que la
+masa de 5 kg del apartado anterior no está presente.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+2022-Julio-Coincidentes
+A.1. Sea un satélite geoestacionario de masa 500 kg.
+a) Obtenga el radio de la órbita descrita por dicho satélite.
+b) Calcule la energía que habría que suministrarle al satélite para que pasase a orbitar en una
+órbita de radio tres veces mayor que el anterior.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg.
+B.1. Una partícula de masa 2·10-3 kg se mueve en una trayectoria rectilínea a lo largo del eje x,
+sometida exclusivamente a la atracción gravitatoria de una partícula de masa M situada en la
+posición (5, 0, 0) m. Cuando la partícula de 2·10-3 kg pasa por el origen de coordenadas, tiene una
+velocidad de 1·10-3 m s-1 y una energía mecánica de 9,9·10-10 J. Determine:
+a) El potencial gravitatorio creado en el origen de coordenadas por la partícula de masa M.
+b) El valor de la masa M.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2022-Julio
+A.1. El satélite Sentinel-1, que forma parte del programa Copernicus, ha suministrado imágenes
+muy útiles para el estudio de la erupción del volcán de La Palma en 2021. Sentinel-1 tiene una
+masa de 2300 kg y se encuentra en una órbita circular a 700 km sobre la superficie terrestre.
+2003-Septiembre
+a) Deduzca la expresión que relaciona el periodo del satélite, T, con el radio de su órbita, r, la
+constante de Gravitación Universal, G, y la masa de la Tierra, M T . Calcule el tiempo que tarda
+Sentinel-1 en dar una vuelta completa en su órbita.
+b) Deduzca la expresión de la energía mecánica total de un satélite de masa m en una órbita
+circular de radio r, expresándola en función de G, M T , m y r. Obtenga la energía mecánica total
+del satélite Sentinel-1.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B.1. En el punto (1, 0) m del plano (x, y) se encuentra una partícula A de masa mA = 2 kg. Se sabe
+que para llevar una partícula B de masa mB desde el origen de coordenadas al punto (0, 2) m el
+trabajo realizado por la fuerza del campo gravitatorio creado por la masa mA es -2,95·10-10 J.
+a) ¿Cuál es el valor de la masa mB?
+b) Calcule el valor del campo gravitatorio que crea la masa mA en el punto (0, 2) m .
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2022-Junio-Coincidentes
+A.1. Tianwen-1 es una misión espacial china para aterrizar en el planeta Marte. El 10 de febrero
+de 2021 la nave (un módulo de aterrizaje acoplado a un orbitador) entró en órbita marciana.
+Suponga que la órbita es circular y que el periodo de revolución es de 12 h.
+a) Determine la altura sobre la superficie del planeta a la que orbita la nave espacial.
+b) El 15 de mayo de 2021 el módulo de aterrizaje se separa del orbitador y, tras poner en marcha
+sus retrocohetes que reducen su velocidad orbital a cero, cae sobre la superficie del planeta. Si no
+hubiesen funcionado los sistemas de frenado, ¿a qué velocidad hubiera impactado el módulo de
+aterrizaje en caída libre?
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2;
+Masa de Marte, MM = 6,39·10 23 kg; Radio de Marte, RM = 3390 km.
+B.1. Una masa puntual de 5 kg se encuentra fija en el punto P (0, 20) m del plano xy. Otra masa
+puntual m, inicialmente en reposo, se encuentra en el punto Q (100, 0) m.
+a) Calcule el campo gravitatorio creado por la masa de 5 kg en el punto Q.
+b) Por efecto de la atracción gravitatoria, la masa m se acelera hacia el punto P. Calcule el vector
+velocidad que poseerá dicha masa cuando pase por el punto (50, 10) m.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2022-Junio
+A.1. Una partícula de masa 20 kg permanece fija en el origen de coordenadas.
+a) Calcule el campo gravitatorio generado por la masa en el punto (8, 6) m y la fuerza que
+experimentará una segunda partícula de masa 3 kg situada en dicho punto.
+b) Con el objetivo de alejar la segunda partícula, se le transmite una velocidad de 1,2·10-5 m s-1 en
+la dirección de la recta que une ambas partículas. Halle el punto más alejado del origen que
+alcanzará dicha partícula.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Marte posee la décima parte de la masa de la Tierra y la mitad de su diámetro.
+a) Encuentre la relación entre las velocidades de escape de Marte y de la Tierra desde sus
+respectivas superficies.
+b) Suponga que un objeto se lanza verticalmente desde la superficie terrestre, con una velocidad
+igual a la velocidad de escape de Marte. Si se desprecia el rozamiento, ¿qué altura máxima
+alcanzaría el objeto?
+Dato: Radio de la Tierra, RT = 6,37·106
+ m.
+2022-Modelo
+A.1. La distancia de la Tierra al Sol varía a lo largo de su órbita entre 1,52 10 ⋅
+11 m en su punto más
+alejado (afelio) y 1,47 10 ⋅
+11 m en el punto más próximo (perihelio).
+a) Calcule el trabajo realizado por el campo gravitatorio del Sol sobre la Tierra en el tránsito del
+afelio al perihelio.
+b) Si la energía mecánica de la Tierra en su órbita vale -2,65 10 ⋅
+33 J, ¿cuál es la velocidad máxima
+que alcanza la Tierra en ella?
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra,
+MT = 5,97·1024 kg; Masa del Sol, MS = 1,99·1030 kg.
+2003-Septiembre
+B.1. En un experimento similar al efectuado por
+Henry Cavendish en 1798 para determinar la
+constante de gravitación universal, una pequeña
+esfera, A, de masa m queda situada ante dos
+esferas, B y C, ambas de la misma masa M, de
+tal modo que los centros de las tres esferas
+corresponden a los vértices de un triángulo
+rectángulo de catetos D y d, como se ilustra en
+la figura.
+a) ¿Qué relación debe existir entre D y d para que la fuerza de atracción gravitatoria de la esfera C
+sobre la esfera A sea la décima parte de la atracción de la esfera B sobre A?
+b) Si el valor de M es de 10 kg y se encuentra que la atracción de B sobre A es la milmillonésima
+parte del peso de A en la superficie terrestre, ¿cuánto vale la distancia d?
+Datos: Masa de la Tierra, MT = 5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+2021-Julio
+A.1. Una nave espacial ha quedado atrapada en una órbita circular en torno a un planeta esférico
+desconocido. Los sistemas de navegación de la nave indican que su velocidad orbital es de 25000
+km h-1 y que tarda 5 horas en dar una vuelta completa alrededor del planeta.
+a) Determine el radio de la órbita circular de la nave y la masa del planeta.
+b) Si la densidad del planeta es de 16150 kg m-3, calcule el radio del planeta y el valor de la
+aceleración de la gravedad en su superficie.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Una partícula de masa m se encuentra en el origen de coordenadas de un sistema de
+referencia (x, y). La componente x del campo gravitatorio creado por la partícula en el punto (2, 2)
+m es -1,18·10-11 N kg-1
+.
+a) Calcule el valor de la masa m.
+b) ¿Cuál es el trabajo que realiza el campo para llevar una partícula de masa M = 5 kg desde el
+punto (4, 0) m al punto (2, 2) m?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2021-Junio-Coincidentes
+A.1. Consideremos un sistema completamente aislado formado por una bola de 6 kg de masa y
+un perdigón de 0,35 g. Si dicho perdigón describe una trayectoria circular de radio 2,5 m en torno
+a la bola y únicamente se considera la interacción gravitatoria entre ambas partículas, calcule:
+a) El periodo de revolución del perdigón alrededor de la bola.
+b) La energía extra mínima que habría que suministrar al perdigón para que escape del campo
+gravitatorio de la bola.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Michael Mayor y Didier Queloz son dos planetólogos suizos, que en 2019 recibieron el premio
+Nobel de Física por descubrir el primer exoplaneta que orbitaba en torno a una estrella similar al
+Sol. Este exoplaneta, 51 Pegasus b, tiene una masa 51 veces mayor que Júpiter, y describe una
+órbita de radio 100 veces menor que la de Júpiter. Sabiendo que el periodo de revolución de
+Júpiter es de 12 años, mientras que el de 51 Pegasus b, es de 4 días y considerando ambas
+órbitas como circulares, calcule:
+a) La masa de la estrella en torno a la que orbita el exoplaneta 51 Pegasus b.
+b) La energía mecánica de 51 Pegasus b.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa del Sol, Ms = 1,99·1030
+kg; Masa de Júpiter, MJ = 1,90·1027 kg.
+2021-Junio
+A.1. Una masa puntual de 50 g se encuentra situada en la posición (8, 0) m del plano xy. Calcule:
+a) El potencial gravitatorio y el campo gravitatorio en el punto (0, 6) m del plano debido a dicha
+masa.
+b) El trabajo realizado por el campo al trasladar un objeto puntual de 20 g desde el punto (0, 6) m
+hasta el origen de coordenadas.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Una sonda espacial de 3500 kg se encuentra en órbita circular alrededor de Saturno,
+realizando una revolución cada 36 horas. Calcule:
+a) La velocidad orbital y la energía mecánica que posee la sonda espacial.
+2003-Septiembre
+b) La energía mínima necesaria que habría que suministrarle para que abandone el campo
+gravitatorio del planeta.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de Saturno, Ms =
+5,68·1026 kg.
+2021-Modelo
+A.1. El Sol orbita alrededor del centro galáctico siguiendo una órbita circular de radio 2,4 10 ⋅
+17 km y
+periodo de 203 millones de años. Determine:
+a) La velocidad orbital del Sol alrededor del centro galáctico.
+b) La masa del centro galáctico suponiendo que toda la masa se concentra en un agujero negro
+en su centro.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B.1. Un planeta esférico tiene una masa igual a 360 veces la masa de la Tierra, y la velocidad de
+escape para objetos situados cerca de su superficie es 6 veces la velocidad de escape terrestre.
+Determine:
+a) La relación entre los radios del planeta y de la Tierra.
+b) La relación entre las aceleraciones de la gravedad en puntos de la superficie del planeta y de la
+Tierra.
+2020-Septiembre
+A.1. Calisto (el tercer satélite con mayor masa del sistema solar), que posee una densidad de 1,83
+g cm-3 y un radio de 2410 km, da una revolución alrededor del planeta Júpiter cada 16,89 días.
+a) Calcule la masa del satélite y la aceleración de la gravedad en su superficie.
+b) Obtenga la energía cinética y la energía mecánica de Calisto en su órbita circular alrededor del
+planeta.
+Datos: Constante de Gravitación Universal, G = 6,67 10-11 N m2
+ kg-2;
+Masa de Júpiter, MJup = 1,90 10 ⋅
+27 kg.
+B.1. La sonda espacial Mars Reconnaissance Orbiter consiguió en septiembre de 2006 situarse
+en una órbita circular en torno al planeta Marte a 290 km de altura sobre la superficie para realizar
+un mapeo de su superficie. Tras utilizar combustible en la maniobra de aproximación, la sonda
+actualmente tiene una masa de 1031 kg.
+a) Halle el periodo de revolución de la sonda espacial y su velocidad orbital alrededor de Marte.
+b) Obtenga la energía mínima necesaria que habría que suministrar al satélite para que escape
+del campo gravitatorio marciano.
+Datos: Constante de Gravitación Universal, G = 6,67 10 ⋅
+-11 N m2
+ kg-2;
+Masa de Marte, MMarte = 6,42 10 ⋅
+23 kg; Radio de Marte, RMarte = 3,39 10 ⋅
+6
+ m
+2020-Julio-Coincidentes
+A.1. En un capítulo de la serie de ficción Stargate, los protagonistas llegan a un planeta
+desconocido. La información recabada por nuestros protagonistas antes de su llegada les ha
+permitido deducir que la masa de este planeta es la misma que la de la Tierra. Sin embargo, no
+han podido calcular su radio. Para ello, el físico del equipo de investigación con la ayuda de un
+péndulo simple, establece que la relación entre la gravedad en la superficie de la Tierra, gT, y la
+del planeta, gP, es gP = 2gT. Calcule:
+a) El radio de dicho planeta.
+b) La velocidad de escape desde la superficie del planeta.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Radio de la Tierra, RT = 6370
+km; Masa de la Tierra, MT = 5,97·1024 kg.
+B.1. Un satélite de 6000 kg de masa describe una órbita circular de radio 6,97·106
+ m alrededor de
+la Tierra. Si su periodo de revolución es de 96,5 minutos, calcule:
+a) La constante de gravitación universal G.
+b) La energía del satélite en dicha órbita.
+Dato: Masa de la Tierra, MT = 5,98·1024 kg.
+2020-Julio
+A.1. Un satélite sigue una órbita circular sincrónica (es decir, del mismo periodo que el de rotación
+del planeta) de radio 1,59·105
+ km en torno a un planeta de masa 1,90·1027 kg. Calcule:
+a) La velocidad del satélite en la órbita
+b) El periodo de rotación del planeta sobre su eje.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+
+B.1. Se tiene un planeta de masa 1,95·1025 kg y radio 5500 km. Determine:
+2003-Septiembre
+a) El módulo de la aceleración de la gravedad en la superficie de dicho planeta.
+b) La velocidad de escape desde la superficie del planeta.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+2020-Modelo
+A. Pregunta 1.- El satélite UARS se puso en órbita en 1991 para estudiar la entrada y salida de
+energía en la atmósfera superior. Su masa era de 5800 kg y realizaba 15 órbitas diarias. En 2005,
+el satélite se quedó sin combustible y dejó de operar. Calcule:
+a) La altura sobre la superficie de la Tierra de dicho satélite cuando estaba en órbita.
+b) La energía total del satélite cuando estaba en órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Radio de la Tierra, RT = 6371
+km; Masa de la Tierra, MT = 5,97·1024 kg.
+B. Pregunta 1.-. Unos astrónomos han descubierto un nuevo sistema solar, formado por una
+estrella de masa 6,0·1030 kg, que desempeña el papel del sol, y un planeta que gira en torno a ella
+en una órbita circular, tardando 3 años terrestres en dar una vuelta completa.
+a) Determine la distancia a la que se encuentra el planeta del sol.
+b) Si en la superficie del planeta la aceleración de la gravedad es 15 m s-2 y la velocidad de
+escape es de 11,2 km s-1, ¿cuánto valen la masa y el radio del planeta?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2019-Julio-Coincidentes
+A. Pregunta 1.- Una nave espacial tripulada se encuentra describiendo una órbita circular
+geoestacionaria alrededor de la Tierra. Determine:
+a) El radio de la órbita y la velocidad lineal de la nave,
+El astronauta recibe la orden de cambiar de órbita y pasar a otra, también circular, de radio el
+doble de la actual.
+b) ¿Cuál será la nueva velocidad lineal de la nave? Justifique la respuesta.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg;
+B. Pregunta 1.- Considérese un cuerpo de masa m = 103
+ kg bajo la acción del campo gravitatorio
+terrestre.
+a) Defina la velocidad de escape de ese cuerpo. Determine la velocidad de escape de un cuerpo
+que está en reposo a una distancia R = 2RT del centro de la Tierra
+b) La energía adicional requerida para que el cuerpo que se encuentra en una órbita circular de
+radio R = 2RT escape de la acción del campo gravitatorio terrestre.
+Datos: Radio de la Tierra, RT = 6,37·106
+ m; Constante de Gravitación Universal, G = 6,67·10-11 N
+m2
+ kg-2; Masa de la Tierra, MT = 5,97·1024 kg;
+2019-Julio
+A. Pregunta 1.- Los satélites LAGEOS son una serie de satélites artificiales diseñados para
+proporcionar órbitas de referencia para estudios geodinámicos de la Tierra. Consisten en un
+cuerpo esférico de masa m = 405 kg que se mueve en órbita circular alrededor de la Tierra a una
+altura de 5900 km sobre su superficie. Determine:
+a) El periodo de este tipo de satélites.
+b) La energía requerida para que, desde la superficie de la Tierra, pasen a describir dicha órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+B. Pregunta 1-.El satélite Europa describe una órbita circular alrededor de Júpiter de 671100 km
+de radio. Teniendo en cuenta que su periodo de revolución es de 3,55 días terrestres, determine:
+a) La masa de Júpiter.
+b) La velocidad de escape desde la superficie de Júpiter.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Radio de Júpiter, RJúpiter =
+69911 km.
+2019-Junio-Coincidentes
+A. Pregunta 1.- La nave Apolo XI, de masa m = 1,6·104
+ kg, en su misión de llevar al ser humano a
+la Luna, se situó en una órbita circular a 250 km de altura sobre la superficie lunar, para desde ahí
+enviar el denominado módulo lunar a la superficie de la Luna. Determine:
+a) La velocidad del Apolo XI en su órbita circular y su energía mecánica total.
+b) La velocidad de escape y el valor de la gravedad en la superficie de la Luna.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2 ; Masa de la Luna, ML =
+2003-Septiembre
+7,35·1022 kg; Radio de la Luna, RL = 1737 km.
+B. Pregunta 1.- Una masa puntual A, MA = 3 kg, se encuentra en el plano xy, en el origen de
+coordenadas. Si se sitúa una masa puntual B, MB = 5 kg, en el punto (2, -2) m, determine:
+a) La fuerza que ejerce la masa A sobre la masa B.
+b) El trabajo necesario para llevar la masa B del punto (2, -2) m al punto (2, 0) m debido al campo
+gravitatorio creado por la masa A.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2019-Junio
+A. Pregunta 1.- Una masa puntual m1 = 5 kg está situada en el punto (4, 3) m.
+a) Determine la intensidad del campo gravitatorio creado por la masa m1 en el origen de
+coordenadas y el trabajo realizado al trasladar otra masa m2 = 0,5 kg desde el infinito hasta el
+origen de coordenadas.
+b) Situadas las masas m1 y m2 en las posiciones anteriores, ¿a qué distancia del origen de
+coordenadas, el campo gravitatorio resultante es nulo?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B. Pregunta 1.- El Amazonas 5 es un satélite geoestacionario de comunicaciones de 5900 kg
+puesto en órbita en septiembre de 2017. Determine:
+a) La altura sobre el ecuador terrestre del satélite y su velocidad orbital.
+b) La fuerza centrípeta necesaria para que describa la órbita y la energía total del satélite en dicha
+órbita.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+2019-Modelo
+A. Pregunta 1.- a) Determine la masa de un planeta sabiendo que un satélite de 150 kg describe
+una órbita circular con un periodo de 30 min cuando se mueve con una velocidad de 2,3·104
+ m s-1
+.
+b) ¿Cuál es la energía total de dicho satélite?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B. Pregunta 1.- El planeta Cibeles tiene un radio RC = 8,5·103
+ km y gira en torno a una estrella, de
+nombre Aya, describiendo una órbita circular de radio R = 1,8·108
+ km. En dicho planeta, si se deja
+caer un objeto con velocidad inicial nula, desde una altura de 10 m, tarda 1,58 s en tocar el suelo.
+Cibeles, en 395 días terrestres, da una vuelta completa alrededor de la estrella Aya.
+Determine:
+a) La aceleración de la gravedad sobre la superficie de Cibeles y el valor de su masa.
+b) El valor de la masa de la estrella Aya.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2018-Julio
+A. Pregunta 1.- La masa de un objeto en la superficie terrestre es de 50 kg. Determine:
+a) La masa y el peso del objeto en la superficie de Mercurio.
+b) A qué altura sobre la superficie de Mercurio el peso del objeto se reduce a la tercera parte.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de Mercurio, MM =
+3,30·1023 kg; Radio de Mercurio, RM = 2,44·106
+ m.
+B. Pregunta 1.- Un satélite artificial de masa 712 kg describe una órbita circular alrededor de la
+Tierra a una altura de 694 km. Calcule:
+a) La velocidad y el periodo del satélite en la órbita.
+b) La energía necesaria para trasladarlo desde su órbita hasta otra órbita circular situada a una
+altura de 1000 km sobre la superficie de la Tierra.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg; Radio de la Tierra, RT = 6,37·106
+ m.
+2018-Junio-coincidentes
+A. Pregunta 1.- Una nave espacial transporta colonos en estado de hibernación a un planeta
+lejano. Por un error, la nave llega a su destino 10 años terrestres antes de lo previsto, por lo que el
+ordenador de a bordo decide situar a la nave en una órbita circular a una distancia del centro del
+planeta r = 5000 km y orbitar en ella durante 10 años.
+a) ¿Cuántas vueltas da la nave en la órbita circular a lo largo de los 10 años?
+b) ¿Cuál es el valor de la velocidad de escape en la superficie del planeta?
+Datos: Constante de Gravitación Universal, G = 6,67·10 -11 N m2
+ kg-2; Masa del planeta, MP =
+6,42·1023 kg; Radio del planeta, RP = 3397,5 km.
+2003-Septiembre
+B. Pregunta 1.- Una masa de valor M = 4 kg se encuentra en el punto (4, 0) del plano xy
+(coordenadas expresadas en metros). Determine:
+a) El vector campo gravitatorio creado por la masa en el punto P (0, 3).
+b) El trabajo necesario para llevar una masa m=10 kg desde el origen de coordenadas al punto P.
+Dato: Constante de Gravitación Universal, G = 6,67·10 -11 N m2
+ kg-2
+.
+2018-Junio
+A. Pregunta 1.- Dos masas m1 = 10 kg y m2 = 20 kg cuelgan del techo y están separadas 1 m de
+distancia. Determine:
+a) La fuerza ⃗F12 que ejerce la masa m1 sobre la m2 y el peso ⃗P2
+de la masa m2.
+b) Explique razonadamente por qué el módulo de ⃗P2
+es mucho mayor que el módulo de ⃗F12 .
+Datos: Radio de la Tierra, RT = 6,37·106
+ m; Constante de Gravitación Universal, G = 6,67·10 -11 N
+m2
+ kg-2. Masa de la Tierra, MT = 5,97·1024 kg.
+B. Pregunta 1.- Considérese un satélite de masa 103
+ kg que orbita alrededor de la Tierra en una
+órbita circular geoestacionaria.
+a) Determine el radio que tendría que tener la órbita para que su periodo fuese doble del anterior.
+b) ¿Cuál es la diferencia de energía del satélite entre la primera y la segunda órbita?
+Datos: Constante de Gravitación Universal, G = 6,67·10 -11 N m2
+ kg-2; Masa de la Tierra, MT =
+5,97·1024 kg.
+2018-Modelo
+A. Pregunta 1.- Dos partículas puntuales de masas m1 = 2 kg y m2 = 10 kg se encuentran
+situadas a lo largo del eje X. La masa m1 está en el origen, x1 = 0, y la masa m2 en el punto x2 = 5
+m.
+a) Determine el punto en el eje X en el que el campo gravitatorio debido a ambas masas es nulo.
+b) ¿Cuál es el potencial gravitatorio debido a ambas masas en el punto para el que el campo
+gravitatorio es cero?
+Dato: Constante de Gravitación Universal, G = 6,67·10 -11 N m2
+ kg-2
+.
+B. Pregunta 1.- Sea un sistema doble formado por una estrella y un planeta. El planeta gira
+alrededor de la estrella siguiendo una órbita circular con un periodo de 210 días y posee una masa
+de 5·10-6 M, donde M es la masa de la estrella. Determine:
+a) El radio de la órbita del planeta.
+b) El vector campo gravitatorio total en un punto entre la estrella y el planeta que dista 4,6·105 km
+del centro del planeta.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de la estrella 1,3·1030 kg.
+2017-Septiembre
+A. Pregunta 1.- a) Aplicando el principio de conservación de la energía mecánica, obtenga una
+expresión para la velocidad de escape de un cuerpo desde la superficie de un planeta esférico de
+radio R y masa M.
+b) Calcule la velocidad de escape desde la superficie de Mercurio sabiendo que posee una masa
+de 3,30 10 ⋅
+23 kg y una aceleración de la gravedad en su superficie de 3,70 m·s-2
+.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+B. Pregunta 1.- a) A partir de la ley fundamental de la dinámica, deduzca la expresión de la
+velocidad orbital de un satélite que gira en una órbita circular de radio R alrededor de un planeta
+de masa M.
+b) Si un satélite de 21 kg gira alrededor del planeta Marte, calcule el radio de la órbita circular y la
+energía mecánica del satélite si su periodo es igual al de rotación del planeta.
+Datos: Masa de Marte, MMarte = 6,42·1023 kg; Periodo de revolución del planeta, TMarte = 24,62 h;
+Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2017-Junio-coincidentes
+A. Pregunta 1.- Se desea situar un satélite de 120 kg de masa en una órbita circular, alrededor de
+la Tierra, a 150 km de altura.
+a) Determine la velocidad inicial mínima requerida para que alcance dicha altura.
+b) Una vez alcanzada dicha altura, calcule la energía adicional necesaria para que orbite.
+Datos: Radio de la Tierra, RT = 6,37·106
+ m; Constante de Gravitación Universal, G = 6,67·10-11 N
+m2
+ kg-2 ; Masa de la Tierra, MT = 5,97·1024 kg.
+B. Pregunta 1.- Considérese una masa M = 50 kg situada en el origen de coordenadas. Bajo la
+acción del campo gravitatorio creado por dicha masa, determine:
+2003-Septiembre
+a) El trabajo requerido para mover una masa m1 = 2 kg desde P1 = (1, 0, 0) m a P2 = (3, 4, 0) m.
+b) La energía cinética de una partícula de masa m2 = 3 kg que, partiendo del reposo, se mueve
+desde el punto P3 = (9/2, 6, 0) m al punto P2.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2017-Junio
+A. Pregunta 1.- Un asteroide de forma esférica y radio 3 km tiene una densidad de 3 g cm-3
+.
+Determine:
+a) La velocidad de escape desde la superficie de dicho asteroide.
+b) La velocidad de un cuerpo a una altura de 1 km sobre la superficie del asteroide si partió de su
+superficie a la velocidad de escape.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg -2
+.
+B. Pregunta 1.- Una reciente investigación ha descubierto un planeta similar a la Tierra orbitando
+alrededor de la estrella Próxima Centauri, una enana roja cuya masa es un 12% de la masa del
+Sol y su radio es el 14% del radio solar. Mediante técnicas de desplazamiento Doppler se ha
+medido el periodo del planeta alrededor de la estrella obteniéndose un valor de 11,2 días.
+Determine:
+a) La aceleración de la gravedad sobre la superficie de la estrella.
+b) El radio de la órbita del planeta suponiendo ésta circular.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg -2; Masa del Sol, MS = 1,99·1030
+kg; Radio del Sol, RS = 7·108
+ m.
+2017-Modelo
+A. Pregunta 1.- Enunciado idéntico a 2016-Modelo-A1
+B. Pregunta 1.- Enunciado idéntico a 2016-Modelo-B1
+2016-Septiembre
+A. Pregunta 1.- Desde la superficie de un planeta de masa 6,42·1023 kg y radio 4500 km se lanza
+verticalmente hacia arriba un objeto.
+a) Determine la altura máxima que alcanza el objeto si es lanzado con una velocidad inicial de 2
+km s-1
+.
+b) En el punto más alto se le transfiere el momento lineal adecuado para que describa una órbita
+circular a esa altura. ¿Qué velocidad tendrá el objeto en dicha órbita circular?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B. Pregunta 1.- Una estrella gira alrededor de un objeto estelar con un periodo de 28 días
+terrestres siguiendo una órbita circular de radio 0,45·108
+ km.
+a) Determine la masa del objeto estelar.
+b) Si el diámetro del objeto estelar es 200 km, ¿cuál será el valor de la gravedad en su superficie?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg -2
+.
+2016-Junio
+A. Pregunta 1.- El planeta Marte, en su movimiento alrededor del Sol, describe una órbita elíptica.
+El punto de la órbita más cercano al Sol, perihelio, se encuentra a 206,7·106
+ km, mientras que el
+punto de la órbita más alejado del Sol, afelio, está a 249,2·106
+ km. Si la velocidad de Marte en el
+perihelio es de 26,50 km s-1, determine:
+a) La velocidad de Marte en el afelio.
+b) La energía mecánica total de Marte en el afelio.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Masa de Marte, MM =
+6,42·1023 kg; Masa del Sol MS = 1,99·1030 kg.
+B. Pregunta 1.- Un astronauta utiliza un muelle de constante elástica k=327 N m-1 para determinar
+la aceleración de la gravedad en la Tierra y en Marte. El astronauta coloca en posición vertical el
+muelle y cuelga de uno de sus extremos una masa de 1 kg hasta alcanzar el equilibrio. Observa
+que en la superficie de la Tierra el muelle se alarga 3 cm y en la de Marte sólo 1,13 cm.
+a) Si el astronauta tiene una masa de 90 kg, determine la masa adicional que debe añadirse para
+que su peso en Marte sea igual al de la Tierra.
+b) Calcule la masa de la Tierra suponiendo que sea esférica.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Radio de la Tierra, RT =
+6,37·106
+ m.
+2016-Modelo
+A. Pregunta 1.- Titania, satélite del planeta Urano, describe una órbita circular en torno al planeta.
+Las aceleraciones de la gravedad en la superficies de Urano y de Titania son gU = 8,69 m s-2 y gt =
+2003-Septiembre
+0,37 m s-2, respectivamente. Un haz de luz emitido desde la superficie de Urano tarda 1,366 s en
+llegar a la superficie de Titania. Determine:
+a) El radio de la órbita de Titania alrededor de Urano (distancia entre los centros de ambos
+cuerpos).
+b) El tiempo que tarda Titania en dar una vuelta completa alrededor de Urano, expresado en días
+terrestres.
+Datos: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Velocidad de la luz en el
+vacío, c = 3.0·108
+ m s-1; Masa de Urano, MU = 8,69·1025 kg; Masa de Titania Mt = 3,53·1021 kg.
+B. Pregunta 1.- Un cierto planeta esférico tiene de masa el doble de la masa de la Tierra, y la
+longitud de su circunferencia ecuatorial mide la mitad de la de la Tierra. Calcule:
+a) La relación que existe entre la velocidad de escape en la superficie de dicho planeta con
+respecto a la velocidad de escape en la superficie de la Tierra.
+b) La aceleración de la gravedad en la superficie del planeta.
+Dato: Aceleración de la gravedad en la superficie de la Tierra, gT = 9,81 m s-2
+.
+2015-Septiembre
+A. Pregunta 1.- Una nave espacial aterriza en un planeta desconocido. Tras varias mediciones se
+observa que el planeta tiene forma esférica, la longitud de su circunferencia ecuatorial mide 2·105
+km y la aceleración de la gravedad en su superficie vale 3 m s-2
+.
+a) ¿Qué masa tiene el planeta?
+b) Si la nave se coloca en una órbita circular a 30.000 km sobre la superficie del planeta,
+¿cuántas horas tardará en dar una vuelta completa al mismo?
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+B. Pregunta 1.- El radio de uno de los asteroides, de forma esférica, perteneciente a los anillos de
+Saturno es de 5 km. Suponiendo que la densidad de dicho asteroide es uniforme y de valor 5,5 g
+cm-3, calcule:
+a) La aceleración de la gravedad en su superficie.
+b) La velocidad de escape desde la superficie del asteroide.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+.
+2015-Junio-Coincidentes
+A. Pregunta 1.- Se quiere situar un satélite de masa, m = 103
+ kg, a una altura h = RT, respecto de
+la superficie de la Tierra. Determine:
+a) La energía cinética mínima requerida para situar el satélite a la altura h = RT.
+b) La energía cinética adicional requerida para que se mantenga en órbita circular a dicha altura.
+Datos: Constante de la Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2; Radio de la Tierra, RT =
+6,37·106
+ m; Masa de la Tierra, MT = 5,97·1024 kg
+B. Pregunta 1.- En la superficie de un planeta esférico, de radio 2RT (RT radio de la Tierra), la
+aceleración de la gravedad es idéntica a la que se mide en la superficie terrestre.
+a) Determine la masa del planeta en función de la masa de la Tierra.
+b) Compare las energías mínimas necesarias para situar un objeto a una altura h = RT, desde la
+superficie de la Tierra y desde la superficie de dicho planeta.
+2015-Junio
+A. Pregunta 1.- Dos lunas que orbitan alrededor de un planeta desconocido, describen órbitas
+circulares concéntricas con el planeta y tienen periodos orbitales de 42 h y 171,6 h. A través de la
+observación directa, se sabe que el diámetro de la órbita que describe la luna más alejada del
+planeta es de 2,14·106
+ km. Despreciando el efecto gravitatorio de una luna sobre otra, determine:
+a) La velocidad orbital de la luna exterior y el radio de la órbita de la luna interior.
+b) La masa del planeta y la aceleración de la gravedad sobre su superficie si tiene un diámetro de
+2,4·104
+ km.
+Dato: Constante de gravitación universal, G = 6,67×10-11 N m2
+ kg-2
+B. Pregunta 1.- Un cuerpo esférico de densidad uniforme con diámetro 6,0·105
+ km presenta una
+aceleración de la gravedad sobre su superficie de 125 m s-2
+.
+a) Determine la masa de dicho cuerpo.
+b) Si un objeto describe una órbita circular concéntrica con el cuerpo esférico y un periodo de 12
+h, ¿cuál será el radio de dicha órbita?
+Dato: Constante de gravitación universal, G = 6,67×10-11 N m2
+ kg-2
+2015-Modelo
+A. Pregunta 1.- Un planeta de igual masa que la Tierra, describe una órbita circular de radio R, de
+2003-Septiembre
+un año terrestre de duración, alrededor de una estrella de masa M tres veces superior a la del Sol.
+a) Obtenga la relación entre: el radio R de la órbita del planeta, su periodo de revolución T, la
+constante de la gravitación universal G, y la masa M de la estrella alrededor de la cuál orbita.
+b) Calcule el cociente entre los radios de las órbitas de este planeta y de la Tierra.
+B. Pregunta 1.- Dos planetas, A y B, tienen el mismo radio. La aceleración gravitatoria en la
+superficie del planeta A es tres veces superior a la aceleración gravitatoria en la superficie del
+planeta B. Calcule:
+a) La relación entre las densidades de los dos planetas.
+b) La velocidad de escape desde la superficie del planeta B si se sabe que la velocidad de escape
+desde la superficie del planeta A es de 2 km/s
+2014-Septiembre
+A. Pregunta 1.- Un satélite describe una órbita circular alrededor de un planeta desconocido con
+un periodo de 24 h. La aceleración de la gravedad en la superficie del planeta es 3,71 m s-2 y su
+radio es 3393 km. Determine:
+a) EI radio de la órbita.
+b) La velocidad de escape desde la superficie del planeta.
+B. Pregunta 1.- Un planeta esférico tiene una densidad uniforme ρ = 1,33 g cm-3 y un radio de
+71500 km. Determine:
+a) El valor de la aceleración de la gravedad en su superficie.
+b) La velocidad de un satélite que orbita alrededor del planeta en una órbita circular con un
+periodo de 73 horas.
+Dato: Constante de gravitación universal, G = 6,67×10-11 N m2
+ kg-2
+2014-Junio-Coincidentes
+A. Pregunta 1.- Un satélite artificial de masa 100 kg describe una órbita circular alrededor de
+cierto planeta. La energía mecánica del satélite en dicha órbita es de -5×107
+ J y su período de
+revolución es de 24 horas. Calcule:
+a) El radio de la órbita.
+b) La masa del planeta.
+Dato: Constante de Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2
+B. Pregunta 1.- La Tierra tiene un diámetro 2,48 veces mayor que el de Titán y su masa es 44,3
+veces mayor. Considerando que ambos astros son esféricos, calcule:
+a) El valor de la aceleración de la gravedad en la superficie de Titán.
+b) La relación entre las velocidades de escape en Titán y en la Tierra.
+Dato: Aceleración de la gravedad en la superficie Terrestre, g= 9,81 m s-2
+2014-Junio
+A. Pregunta 1.- El planeta A tiene tres veces más masa que el planeta B y cuatro veces su radio.
+Obtenga:
+a) La relación entre las velocidades de escape desde las superficies de ambos planetas.
+b) La relación entre las aceleraciones gravitatorias en las superficies de ambos planetas.
+B. Pregunta 1.- Un cohete de masa 2 kg se lanza verticalmente desde la superficie terrestre de tal
+manera que alcanza una altura máxima, con respecto a la superficie terrestre, de 500 km.
+Despreciando el rozamiento con el aire, calcule:
+a) La velocidad del cuerpo en el momento del lanzamiento. Compárela con la velocidad de escape
+desde la superficie terrestre.
+b) La distancia a la que se encuentra el cohete, con respecto al centro de la Tierra, cuando su
+velocidad se ha reducido en un 10 % con respecto a su velocidad de lanzamiento.
+Datos: Radio Terrestre = 6,37×106
+ m ; Masa de la Tierra= 5,97×1024 kg;
+Constante de Gravitación Universal G = 6,67 10-11 N m2
+ kg-2
+2014-Modelo
+A. Pregunta 1.- La masa del Sol es 333183 veces mayor que la de la Tierra y la distancia que
+separa sus centros es de 1,5×108
+ km. Determine si existe algún punto a lo largo de la línea que
+los une en el que se anule:
+a) El potencial gravitatorio. En caso afirmativo, calcule su distancia a la Tierra.
+b) El campo gravitatorio. En caso afirmativo, calcule su distancia a la Tierra.
+B. Pregunta 1.- Los satélites Meteosat son satélites geoestacionarios, situados sobre el ecuador
+terrestre y con un periodo orbital de 1 día.
+a) Suponiendo que la órbita que describen es circular y poseen una masa de 500 kg, determine el
+2003-Septiembre
+módulo del momento angular de los satélites respecto del centro de la Tierra y la altura a la que se
+encuentran estos satélites respecto de la superficie terrestre.
+b) Determine la energía mecánica de los satélites.
+Datos: Radio Terrestre = 6,37×106
+ m ; Masa de la Tierra= 5,97×1024 kg;
+Constante de Gravitación Universal G = 6,67 10-11 N m2
+ kg-2
+2013-Septiembre
+A. Pregunta 1.- Dos satélites describen órbitas circulares alrededor de un planeta cuyo radio es
+de 3000 km. El primero de ellos orbita a 1000 km de la superficie del planeta y su periodo orbital
+es de 2 h. La órbita del segundo tiene un radio 500 km mayor que la del primero. Calcule:
+a) El módulo de la aceleración de la gravedad en la superficie del planeta.
+b) El periodo orbital del segundo satélite.
+B. Pregunta 1.- Dos planetas, A y B, tienen la misma densidad. El planeta A tiene un radio de
+3500 km y el planeta B un radio de 3000 km. Calcule:
+a) La relación que existe entre las aceleraciones de la gravedad en la superficie de cada planeta.
+b) La relación entre las velocidades de escape en cada planeta.
+2013-Junio-Coincidentes
+A. Pregunta 1.- Un satélite de masa 800 kg orbita alrededor de la Luna con una velocidad angular
+de 4,33 ×10-4 rad s-1. Despreciando rozamientos, determine:
+a) La altura, medida desde la superficie de la Luna, a la que se encuentra el satélite orbitando así
+como su período de revolución alrededor de la misma.
+b) La energía mecánica del satélite a dicha altura.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2 ;
+Radio de la Luna, RL=1740 km; Masa de la Luna, ML=7,35×1022 kg
+B. Pregunta 1.- Sobre la superficie de la Tierra y a nivel del mar se coloca un péndulo simple de
+longitud L = 2 m y se obtiene experimentalmente un valor de la aceleración local de la gravedad go
+= 9,81 m s-2. El experimento se realiza haciendo oscilar el péndulo en régimen de pequeñas
+oscilaciones.
+a) Calcule la constante de Gravitación Universal y el período del péndulo cuando se encuentra
+oscilando a nivel del mar.
+b) Repetimos el experimento en la cima de una montaña de 8 km de altura. Calcule la aceleración
+local de la gravedad en ese punto, así como la longitud que tendría que tener el péndulo para que
+su periodo fuese el mismo que el que tiene a nivel del mar.
+Datos: Masa de la Tierra, MT = 5,97×1024 kg; Radio de la Tierra, RT =6,37×106
+ m
+2013-Junio
+A. Pregunta 3.- Calcule:
+a) La densidad media del planeta Mercurio, sabiendo que posee un radio de 2440 km y una
+intensidad de campo gravitatorio en su superficie de 3,7 N kg-1
+.
+b) La energía necesaria para enviar una nave espacial de 5000 kg de masa desde la superficie del
+planeta a una órbita en la que el valor de la intensidad de campo gravitatorio sea la cuarta parte
+de su valor en la superficie.
+Dato: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2
+B. Pregunta 5.- Urano es un planeta que describe una órbita elíptica alrededor del Sol. Razone la
+veracidad o falsedad de las siguientes afirmaciones:
+a) El módulo del momento angular, respecto a la posición del Sol, en el afelio es mayor que en el
+perihelio y lo mismo ocurre con el módulo del momento lineal.
+b) La energía mecánica es menor en el afelio que en el perihelio y lo mismo ocurre con la energía
+potencial.
+2013-Modelo
+A. Pregunta 1.- Un cierto planeta esférico tiene una masa M = 1,25×1023 kg y un radio R =1,5×106
+m. Desde su superficie se lanza verticalmente hacia arriba un objeto, el cual alcanza una altura
+máxima de R/2. Despreciando rozamientos, determine:
+a) La velocidad con que fue lanzado el objeto.
+b) La aceleración de la gravedad en el punto más alto alcanzado por el objeto.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2
+B. Pregunta 1.- Una nave espacial de 800 kg de masa realiza una órbita circular de 6000 km de
+radio alrededor de un planeta. Sabiendo que la energía mecánica de la nave es EM = - 3,27× 108
+ J,
+determine:
+2003-Septiembre
+a) La masa del planeta.
+b) La velocidad angular de la nave en su órbita.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2
+2012-Septiembre
+A. Pregunta 2.- Un satélite artificial de 400 kg describe una órbita circular de radio 5/2 RT
+alrededor de la Tierra. Determine:
+a) El trabajo que hay que realizar para llevar al satélite desde la órbita circular de radio 5/2 RT a
+otra órbita circular de radio 5RT y mantenerlo en dicha órbita.
+b) El periodo de rotación del satélite en la órbita de radio 5RT.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2 ; Masa de la Tierra, MT =
+5,98×1024 kg ; Radio de la Tierra, RT = 6,37×106
+ m
+B. Pregunta 2.- La aceleración de la gravedad en la Luna es 0,166 veces la aceleración de la
+gravedad en la Tierra y el radio de la Luna es 0,273 veces el radio de la Tierra. Despreciando la
+influencia de la Tierra y utilizando exclusivamente los datos aportados, determine:
+a) La velocidad de escape de un cohete que abandona la Luna desde su superficie.
+b) El radio de la órbita circular que describe un satélite en torno a la Luna si su velocidad es de 1,5
+km s-1
+.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2 ; Masa de la Tierra, MT =
+5,98×1024 kg ; Radio de la Tierra, RT = 6,37×106
+ m
+2012-Junio
+A. Pregunta 1.- Un satélite de masa m gira alrededor de la Tierra describiendo una órbita circular
+a una altura de 2×104
+ km sobre su superficie.
+a) Calcule la velocidad orbital del satélite alrededor de la Tierra.
+b) Suponga que la velocidad del satélite se anula repentina e instantáneamente y éste empieza a
+caer sobre la Tierra. Calcule la velocidad con la que llegaría el satélite a la superficie de la misma.
+Considere despreciable el rozamiento del aire.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2 ; Masa de la Tierra, MT =
+5,98×1024 kg ; Radio de la Tierra, RT = 6,37×106
+ m
+B. Pregunta 1.- Una nave espacial de 3000 kg de masa describe, en ausencia de rozamiento, una
+órbita circular en torno a la Tierra a una distancia de 2,5×104
+ km de su superficie. Calcule:
+a) El período de revolución de la nave espacial alrededor de la Tierra.
+b) Las energías cinética y potencial de la nave en dicha órbita.
+Datos: Constante de la Gravitación Universal, G = 6,67×10-11 N m2
+ kg-2 ; Masa de la Tierra, MT =
+5,98×1024 kg ; Radio de la Tierra, RT = 6,37×106
+ m
+2012-Modelo
+A. Pregunta 1.- Se ha descubierto un planeta esférico de 4100 km de radio y con una aceleración
+de la gravedad en su superficie de 7,2 m s-2
+.
+a) Calcule la masa del planeta.
+b) Calcule la energía mínima necesaria que hay que comunicar a un objeto de 3 kg de masa para
+lanzarlo desde la superficie del planeta y situarlo a 1000 km de altura de la superficie, en una
+órbita circular en torno al mismo.
+Dato: Constante de Gravitación G = 6,67×10-11 N m2
+ kg-2
+.
+B. Pregunta 1.-Un satélite artificial está situado en una órbita circular en torno a la Tierra a una
+altura de su superficie de 2500 km. Si el satélite tiene una masa de 1100 kg:
+a) Calcule la energía cinética del satélite y su energía mecánica total.
+b) Calcule el módulo del momento angular del satélite respecto al centro de la Tierra.
+Datos: Constante de Gravitación G = 6,67×10-11 N m2
+ kg-2; Radio de la Tierra = 6370 km.;
+Masa de la Tierra = 5,98×1024 kg.
+2011-Septiembre-Coincidentes
+A. Problema 1.- Un satélite artificial de masa 200 kg se mueve alrededor de la Tierra en una
+órbita elíptica definida por una distancia al perigeo (posición más próxima al centro de la Tierra) de
+7,02×106
+ m y una distancia al apogeo (posición más alejada al centro de la Tierra) de 10,30×106
+m. Si en el perigeo el módulo de la velocidad es 8,22×103
+ m/s
+a) ¿Cuál es módulo de la velocidad en el apogeo?
+b) Determine el módulo y la dirección del momento angular del satélite.
+c) Determine la velocidad areolar del satélite.
+d) Determine la energía mecánica del satélite.
+2003-Septiembre
+Dato: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2;Masa de la Tierra = 5,98×1024 kg.
+2011-Septiembre
+A. Cuestión 1.- a) Exprese la aceleración de la gravedad en la superficie de un planeta en función
+de la masa del pIaneta, de su radio y de la constante de gravitación universal G.
+b) Si la aceleración de la gravedad sobre la superficie terrestre vale 9,8 m s-2, calcule la
+aceleración de la gravedad a una altura sobre la superficie terrestre igual al radio de la Tierra.
+B. Problema 1.- Una sonda espacial de masa m = 1000 kg se encuentra situada en una órbita
+circular alrededor de Ia Tierra de radio r =2,26×RT, siendo RT el radio de la Tierra.
+a) Calcule la velocidad de la sonda en esa órbita.
+b) ¿Cuánto vale su energía potencial?
+c) ¿Cuánto vale su energía mecánica?
+d) ¿Qué energía hay que comunicar a la sonda para alejarla desde dicha órbita hasta el infinito?
+Datos: Masa de la Tierra = 5,98×1024 kg; Radio de la Tierra = 6,37×106
+ m.
+Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+.
+2011-Junio-Coincidentes
+B. Cuestión 1 .- Un satélite de masa m = 200 kg se sitúa en una órbita circular a 3×107
+ m del
+centro de la Tierra.
+a) Calcule su energía mecánica total, así como sus energías potencial y cinética.
+b) Si se desea llevar el satélite a una órbita situada a 4×107
+ m del centro de la Tierra, ¿cuál será Ia
+energía necesaria mínima para realizar este cambio de órbita?
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2;
+Masa de la Tierra = 5,97×1024 kg.
+2011-Junio
+A. Cuestión 1.- Un satélite que gira con la misma velocidad angular que la Tierra
+(geoestacionario) de masa m=5×103
+ kg, describe una órbita circular de radio r=3,6×107
+ m.
+Determine:
+a) La velocidad areolar del satélite.
+b) Suponiendo que el satélite describe su órbita en el plano ecuatorial de la Tierra, determine el
+módulo, la dirección y el sentido del momento angular respecto de los polos de la Tierra.
+Dato: Periodo de rotación terrestre= 24 h.
+B. Problema 1.- Sabiendo que el periodo de revolución lunar es de 27,32 días y que el radio de la
+órbita es RL = 3,84×108
+ m, calcule:
+a) La constante de gravitación universal, G (obtener su valor a partir de los datos del problema).
+b) La fuerza que la Luna ejerce sobre la Tierra y la de la Tierra sobre la Luna.
+c) El trabajo necesario para llevar un objeto de 5000 kg desde la Tierra hasta la Luna (Despreciar
+los radios de la Tierra y de la Luna, en comparación con su distancia)
+d) Si un satélite se sitúa entre la Tierra y la Luna a una distancia de la Tierra de RL/4, ¿Cuál es la
+relación de fuerzas debidas a la Tierra y a la Luna?
+Datos: Masa de la Tierra MT = 5,98×1024 kg; masa de la Luna ML = 7,35×1022 kg; Radio de la
+Tierra 6,37×106 m; radio de la Luna 1,74×106
+ m.
+2011-Modelo
+A. Problema 1.- Un planeta orbita alrededor de una estrella de masa M. La masa del planeta es m
+= 1024 kg y su órbita es circular de radio r = 108
+ km y periodo T = 3 años terrestres. Determine:
+a) La masa M de la estrella.
+b) La energía mecánica del planeta.
+c) El módulo del momento angular del planeta respecto al centro de la estrella.
+d) La velocidad angular de un segundo planeta que describiese una órbita circular de radio igual a
+2 r alrededor de la estrella.
+Datos: Constante de Gravitación Universal G= 6,67 10-11 N m2
+ kg-2 Considere 1 año terrestre = 365
+días
+B. Cuestión 1.- Dos satélites de masas mA y mB describen sendas órbitas circulares alrededor de
+la Tierra, siendo sus radios orbitales rA y rB respectivamente. Conteste razonadamente a las
+siguientes preguntas:
+a) Si mA = mB y rA > rB, ¿cuál de los dos satélites tiene mayor energía cinética?
+b) Si los dos satélites estuvieran en la misma órbita (rA = rB) y tuviesen distinta masa (mA < mB),
+¿cuál de los dos tendría mayor energía cinética?
+2010-Septiembre-Fase General
+2003-Septiembre
+A. Problema 1.- (Enunciado casi idéntico a 2008-Septiembre-A-Problema 2)
+Un satélite artificial de 100 kg se mueve en una órbita circular alrededor de la Tierra con una
+velocidad de 7,5 km/s. Calcule:
+a) El radio de la órbita.
+b) La energía potencial del satélite.
+c) La energía mecánica del satélite.
+d) La energía que habría que suministrar a este satélite para que cambiara su órbita a otra con el
+doble de radio.
+Datos: Constante de Gravitación Universal G= 6,67 10-11 N m2
+ kg-2 Masa de la Tierra MT =
+5,98×1024 kg; Radio de la Tierra RT = 6370 km
+B. Cuestión 1.- Considerando que la órbita de la Luna alrededor de la Tierra es una órbita circular,
+deduzca:
+a) La relación entre la energía potencial gravitatoria y la energía cinética de la Luna en su órbita.
+b) La relación entre el periodo orbital y el radio de la órbita descrita por la Luna.
+2010-Septiembre-Fase Específica
+A. Cuestión 1.- Un cometa se mueve en una órbita elíptica alrededor del Sol. Explique en qué
+punto de su órbita, afelio (punto más alejado del Sol) o perihelio (punto más cercano al Sol) tiene
+mayor valor:
+a) La velocidad. b) La energía mecánica.
+B. Cuestión 1.- Un asteroide está situado en una órbita circular alrededor de una estrella y tiene
+una energía total de -1010 J. Determine: a) La relación que existe entre las energías potencial y
+cinética del asteroide.
+b) Los valores de ambas energías potencial y cinética.
+2010-Junio-Coincidentes
+A. Problema 1.- Un planeta tiene dos satélites, A y B, que describen órbitas circulares de radios
+8400 km y 23500 km respectivamente. El satélite A, en su desplazamiento en torno al planeta,
+barre un área de 8210 km2
+ en un segundo. Sabiendo que la fuerza que ejerce el planeta sobre el
+satélite A es 37 veces mayor que sobre el satélite B:
+a) Determine el periodo del satélite A.
+b) Halle la masa del planeta.
+c) Obtenga la relación entre las energías mecánicas de ambos satélites.
+d) Calcule el vector momento angular del satélite A, si tiene una masa de 1,08×1016 kg.
+Dato: Constante de Gravitación Universal G= 6,67 10-11 N m2
+ kg-2
+B. Cuestión 1.- a) A partir de su significado físico, deduzca la expresión de la velocidad de escape
+de un cuerpo desde la superficie terrestre en función de la masa y el radio del planeta.
+b) Sabiendo que la intensidad del campo gravitatorio de la Luna es 1/6 la de la Tierra, obtenga la
+relación entre las velocidades de escape de ambos astros.
+Dato: RT=4RL RT=Radio de la Tierra RL=Radio de la Luna
+2010-Junio-Fase General
+A. Cuestión 1.- a) Enuncie la 2ª ley de Kepler. Explique en qué posiciones de la órbita elíptica la
+velocidad del planeta es máxima y dónde es mínima.
+b) Enuncie la 3ª ley de Kepler. Deduzca la expresión de la constante de esta ley en el caso de
+órbitas circulares.
+B. Problema 1.- Io, un satélite de Júpiter, tiene una masa de 8,9×1022 kg, un periodo orbital de
+1,77 días, y un radio medio orbital de 4,22×108
+ m. Considerando que la órbita es circular con este
+radio, determine:
+a) La masa de Júpiter.
+b) La intensidad de campo gravitatorio, debida a Júpiter, en los puntos de la órbita de Io.
+c) La energía cinética de Io en su órbita.
+d) El módulo del momento angular de Io respecto al centro de su órbita.
+Dato: Constante de Gravitación Universal G= 6,67 10-11 N m2
+ kg-2
+2010-Junio-Fase Específica
+A. Cuestión 1.- (Enunciado idéntico a 2005-Junio-Cuestión 2)
+B. Problema 1.- Un satélite de 1000 kg de masa describe una órbita circular de 12×103
+ km de
+radio alrededor de la Tierra. Calcule:
+a) El módulo del momento lineal y el módulo del momento angular del satélite respecto al centro
+de la Tierra. ¿Cambian las direcciones de estos vectores al cambiar la posición del satélite en su
+2003-Septiembre
+órbita?
+b) El periodo y la energía mecánica del satélite en la órbita.
+Datos: Masa de la Tierra MT = 5,98×1024 kg
+Constante de Gravitación Universal G= 6,67 10-11 N m2
+ kg-2
+2010-Modelo
+A. Problema 1.- (B. Problema 1 en Modelo preliminar que no tenía dos opciones disjuntas)
+Desde un punto de la superficie terrestre se lanza verticalmente hacia arriba un objeto de 100 kg
+que llega hasta una altura de 300 km. Determine:
+a) La velocidad de lanzamiento.
+b) La energía potencial del objeto a esa altura.
+Si estando situado a la altura de 300 km, queremos convertir el objeto en satélite de forma que se
+ponga en órbita circular alrededor de la Tierra:
+c) ¿Qué energía adicional habrá que comunicarle?
+d) ¿Cuál será la velocidad y el periodo del satélite en esa órbita?
+Datos: Constante de Gravitación G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,98×1024 kg; Radio de la Tierra RT = 6370 km
+B. Cuestión 1.- (Cuestión 1 en Modelo preliminar que no tenía dos opciones disjuntas)
+a) ¿Cuál es el periodo de un satélite artificial que gira alrededor de la Tierra en una órbita circular
+cuyo radio es un cuarto del radio de la órbita lunar?
+b) ¿Cuál es la relación entre la velocidad del satélite y la velocidad de Luna en sus respectivas
+órbitas?
+Dato: Periodo de la órbita lunar TL = 27,32 días
+2009-Septiembre
+Cuestión 1.- Razone si son verdaderas o falsas las siguientes afirmaciones:
+a) El valor de la velocidad de escape de un objeto lanzado desde la superficie de la Tierra
+depende del valor de la masa del objeto.
+b) En el movimiento elíptico de un planeta en torno al Sol la velocidad del planeta en el perihelio
+(posición más próxima al Sol) es mayor que la velocidad en el afelio (posición más alejada del
+Sol).
+2009-Junio
+Cuestión 1.- Un satélite artificial de 500 kg que describe una órbita circular alrededor de la Tierra
+se mueve con una velocidad de 6,5 km/s. Calcule:
+a) La energía mecánica del satélite.
+b) La altura sobre la superficie de la Tierra a la que se encuentra.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT=5,98×1024 kg Radio de la Tierra RT=6,37×106
+ m
+B. Problema 1.- Suponiendo que los planetas Venus y la Tierra describen órbitas circulares
+alrededor del Sol, calcule:
+a) El periodo de revolución de Venus.
+b) Las velocidades orbitales de Venus y de la Tierra.
+Datos: Distancia de la Tierra al Sol: 1,49×1011 m Distancia de Venus al Sol: 1,08×1011 m
+Periodo de revolución de la Tierra: 365 días
+2009-Modelo
+Cuestión 1.- a) Enuncie la tercera ley de Kepler y demuéstrela para el caso de órbitas circulares.
+b) Aplique dicha ley para calcular la masa del Sol suponiendo que la órbita de la Tierra alrededor
+del Sol es circular con un radio medio de 1,49×108
+ km.
+Dato: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+2008-Septiembre
+Cuestión 1.- Calcule el módulo del momento angular de un objeto de 1000 kg respecto al centro
+de la Tierra en los siguientes casos:
+a) Se lanza desde el polo norte perpendicularmente a la superficie de la Tierra con una velocidad
+de 10 km/s.
+b) Realiza un órbita circular alrededor de la Tierra en el plano ecuatorial a una distancia de 600 km
+de su superficie.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT=5,98×1024kg; Radio de la Tierra RT=6,37×106m
+A. Problema 2.- Un satélite artificial de 100 kg se mueve en una órbita circular alrededor de la
+2003-Septiembre
+Tierra con una velocidad de 7,5 km/s. Calcule:
+a) El radio de la órbita.
+b) La energía potencial del satélite.
+c) La energía mecánica del satélite.
+d) La energía que habría que suministrar al satélite para que describa una órbita circular con radio
+doble que el de la órbita anterior.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,98×1024 kg; Radio de la Tierra RT=6,37×106m
+2008-Junio
+Cuestión 2.- Una sonda de masa 5000 kg se encuentra en una órbita circular a una altura sobre
+la superficie terrestre de 1,5 RT. Determine: a) el momento angular de la sonda en esa órbita
+respecto al centro de la Tierra; b) la energía que hay que comunicar a la sonda para que escape
+del campo gravitatorio terrestre desde esa órbita.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,98×1024 kg; Radio de la Tierra RT=6,37×106m
+2008-Modelo
+Cuestión 1.- Cuatro masas puntuales idénticas de 6 kg cada una están situadas en los vértices de
+un cuadrado de lado igual a 2 m. Calcule:
+a) El campo gravitatorio que crean las cuatro masas en el centro de cada lado del cuadrado.
+b) El potencial gravitatorio creado por las cuatro masas en el centro del cuadrado, tomando el
+infinito como origen de potenciales.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+B. Problema 1.- Un satélite artificial de 200 kg describe una órbita circular alrededor de la Tierra.
+La velocidad de escape a la atracción terrestre desde esa órbita es la mitad que la velocidad de
+escape desde la superficie terrestre.
+a) Calcule la fuerza de atracción entre la Tierra y el satélite.
+b) Calcule el potencial gravitatorio en la órbita del satélite.
+c) Calcule la energía mecánica del satélite en la órbita.
+d) ¿Se trata de un satélite geoestacionario? Justifique la respuesta.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,98×1024 kg; Radio de la Tierra RT=6,37×106m
+2007-Septiembre
+Cuestión 1. a) ¿Cuál es la aceleración de la gravedad en la superficie de un planeta esférico cuyo
+radio es la mitad del de la Tierra y posee la misma densidad media? b) ¿Cuál sería el período de
+la órbita circular de un satélite situado a una altura de 400 km respecto a la superficie del planeta?
+Datos: Radio de la Tierra RT=6371 km Aceleración de la gravedad en la superficie de la Tierra
+g=9,8 m s-2
+A. Problema 1.- Un satélite de masa 20 kg se coloca en órbita circular sobre el ecuador terrestre
+de modo que su radio se ajusta para que dé una vuelta a la Tierra cada 24 horas. Así se consigue
+que siempre se encuentre sobre el mismo punto respecto a la Tierra (satélite geoestacionario).
+a) ¿Cuál debe ser el radio de su órbita? b) ¿Cuánta energía es necesaria para situarlo en dicha
+órbita?
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,96×1024 kg Radio de la Tierra RT = 6371 km
+2007-Junio
+Cuestión 1.- Sabiendo que la aceleración de la gravedad en un movimiento de caída libre en la
+superficie de la Luna es un sexto de la aceleración de la gravedad en la superficie de la Tierra y
+que el radio de la Luna es aproximadamente 0,27 RT (siendo RT el radio terrestre), calcule: a) la
+relación entre las densidades medias ρLuna / ρTierra; b) la relación entre las velocidades de escape de
+un objeto desde sus respectivas superficies (ve) Luna / (ve) Tierra.
+B. Problema 1.- Fobos es un satélite de Marte que gira en una órbita circular de 9380 km de
+radio, respecto al centro del planeta, con un periodo de revolución de 7,65 horas. Otro satélite de
+Marte, Deimos, gira en una órbita de 23460 km de radio. Determine:
+a) La masa de Marte.
+b) El período de revolución del satélite Deimos.
+c) La energía mecánica del satélite Deimos.
+d) El módulo del momento angular de Deimos respecto al centro de Marte.
+2003-Septiembre
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de Fobos = 1,1×1016 kg; Masa de Deimos = 2,4×1015 kg
+2007-Modelo
+Cuestión 1.- Un objeto de 5 kg de masa posee una energía potencial gravitatoria Ep=-2×108
+J
+cuando se encuentra a cierta distancia de la Tierra.
+a) Si el objeto a esa distancia estuviera describiendo una órbita circular, ¿cuál sería su velocidad?
+b) Si la velocidad del objeto a esa distancia fuese de 9 km/s, ¿cuál sería su energía cinética?
+¿Podría el objeto estar describiendo una órbita elíptica en este caso?
+2006-Septiembre
+Cuestión 1.- a) Desde la superficie de la Tierra se lanza verticalmente hacia arriba un objeto con
+una velocidad v. Si se desprecia el rozamiento, calcule el valor de v necesario para que el objeto
+alcance una altura igual al radio de la Tierra.
+b) Si se lanza el objeto desde la superficie de la Tierra con una velocidad doble a la calculada en
+el apartado anterior, ¿escapará o no del campo gravitatorio terrestre?
+Datos: Masa de la Tierra MT = 5,98×1024 kg Radio de la Tierra RT = 6370 km
+Constante de Gravitación G = 6,67×10-11 N m2
+ kg-2
+2006-Junio
+A. Problema 1.- Un satélite artificial describe una órbita circular alrededor de la Tierra. En esta
+órbita la energía mecánica del satélite es -4,5x109
+ J y su velocidad es 7610 m s-1. Calcule:
+a) El módulo del momento lineal del satélite y el módulo del momento angular del satélite respecto
+al centro de la Tierra.
+b) El periodo de la órbita y la altura a la que se encuentra el satélite.
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT= 5,98x 1024 kg Radio de la Tierra RT= 6,37x106
+ m
+Cuestión 1.- Llamando g0 y V0 a la intensidad de campo gravitatorio y al potencial gravitatorio en
+la superficie terrestre respectivamente, determine en función del radio de la Tierra:
+a) La altura sobre la superficie terrestre a la cual la intensidad de campo gravitatorio es g0/2.
+b) La altura sobre la superficie terrestre a la cual el potencial gravitatorio es V0/2.
+2006-Modelo
+Cuestión 1.- a) Enuncie las tres leyes de Kepler sobre el movimiento planetario.
+b) Si el radio de la órbita de la Tierra es 1,50×1011 m y el de Urano 2,87×1012 calcule el periodo
+orbital de Urano.
+A. Problema 1.- Se lanza una nave de masa m = 5×103
+ kg desde la superficie de un planeta de
+radio R1 = 6×103
+ km y masa M1 = 4×1024 kg, con velocidad inicial v0 = 2×104
+ m/s, en dirección
+hacia otro planeta del mismo radio R2 = R1 y masa M2 = 2 M1, siguiendo la línea recta que une los
+centros de ambos planetas. Si la distancia entre dichos centros es D = 4,83x1010 m, determine:
+a) La posición del punto P en el que la fuerza neta sobre la nave es cero.
+b) La energía cinética con la que llegará la nave a la superficie del segundo planeta.
+Dato: Constante de Gravitación Universal, G = 6,67·10-11 N m2
+ kg-2
+2005-Septiembre
+Cuestión 2.- Dos masas iguales, M=20 kg, ocupan posiciones fijas separadas
+una distancia de 2 m, según indica la figura. Una tercera masa, m'=0,2 kg, se
+suelta desde el reposo en un punto A equidistante de las dos masas
+anteriores y a una distancia de 1 m de la línea que las une (AB=1 m). Si no
+actúan más que la acciones gravitatorias entre estas masas, determine:
+a) La fuerza ejercida (módulo, dirección y sentido) sobre la masa m' en la
+posición A.
+b) Las aceleraciones de la masa m' en las posiciones A y B.
+Dato: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+A. Problema 1.- Desde la superficie terrestre se lanza un satélite de 400 kg de masa hasta
+situarlo en una órbita circular a una distancia del centro de la Tierra igual a las 7/6 partes del radio
+terrestre. Calcule:
+a) La intensidad de campo gravitatorio terrestre en los puntos de la órbita del satélite.
+b) La velocidad y el periodo que tendrá el satélite en la órbita.
+c) La energía mecánica del satélite en la órbita
+d) La variación de la energía potencial que ha experimentado el satélite al elevarlo desde la
+superficie de la Tierra hasta situarlo en su órbita.
+2003-Septiembre
+Datos: Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+Masa de la Tierra MT = 5,98×1024 kg Radio de la Tierra RT = 6,37×106
+ m
+2005-Junio
+Cuestión 2.- a) Deduzca la expresión de la energía cinética de un satélite en órbita circular
+alrededor de un planeta en función del radio de la órbita y de las masas del satélite y del planeta.
+b) Demuestre que la energía mecánica del satélite es la mitad de su energía potencial.
+A. Problema 1.- Un satélite artificial de la Tierra de 100 kg de masa describe una órbita circular a
+una altura de 655 km. Calcule:
+a) El periodo de la órbita.
+b) La energía mecánica del satélite.
+c) El módulo del momento angular del satélite respecto al centro de la Tierra.
+d) El cociente entre los valores de la intensidad de campo gravitatorio terrestre en el satélite y en
+la superficie de la Tierra.
+Datos: Masa de la Tierra MT= 5,98×1024 kg Radio de la Tierra RT= 6,37×106
+ m
+Constante de Gravitación Universal G = 6,67×10-11 N m2
+ kg-2
+2005-Modelo
+Cuestión 1.- Razone si son verdaderas o falsas las siguientes afirmaciones:
+a) Un objeto de masa m1 necesita una velocidad de escape de la Tierra el doble que la que
+necesita otro objeto de masa m2 = m1/2
+b) Se precisa realizar más trabajo para colocar en una misma órbita un satélite de masa m1 que
+otro satélite de masa m2 = m1/2 , lanzados desde la superficie de la Tierra.
+2004-Septiembre
+Cuestión 1.- La luz solar tarda 8,31 minutos en llegar a la Tierra y 6,01 minutos en llegar a Venus.
+Suponiendo que las órbitas descritas por ambos planetas son circulares, determine: a) el periodo
+orbital de Venus en torno al Sol sabiendo que el de la Tierra es de 365,25 días; b) la velocidad con
+que se desplaza Venus en su órbita.
+Dato: Velocidad de la luz en el vacío 3x108
+ m/s
+A. Problema 1.- Un planeta esférico tiene 3200 km de radio y la aceleración de la gravedad en su
+superficie es 6,2 ms-2 Calcule:
+a) La densidad media del planeta y la velocidad de escape desde su superficie.
+b) La energía que hay que comunicar a un objeto de 50 kg de masa para lanzarlo desde la
+superficie del planeta y ponerlo en órbita circular alrededor del mismo, de forma que su periodo
+sea de 2 horas.
+Dato: Constante de Gravitación Universal G = 6,67x10-11 Nm2
+ kg-2
+2004-Junio
+Cuestión 2.- Plutón describe una órbita elíptica alrededor del Sol. Indique para cada una de las
+siguientes magnitudes si su valor es mayor, menor o igual en el afelio (punto más alejado del Sol)
+comparado con el perihelio (punto más próximo al Sol): a) momento angular respecto a la posición
+del Sol; b) momento lineal; c) energía potencial; d) energía mecánica.
+2004-Modelo
+Cuestión 1.- La velocidad de un asteroide es de 20 km/s en el perihelio y de 14 km/s en el afelio.
+Determine en esas posiciones cuál es la relación entre:
+a) Las distancias al Sol en torno al cual orbitan.
+b) Las energías potenciales del asteroide.
+A. Problema 1.- La sonda espacial Mars Odissey describe una órbita circular en tomo a Marte a
+una altura sobre su superficie de 400 km. Sabiendo que un satélite de Marte describe órbitas
+circulares de 9390 km de radio y tarda en cada una de ellas 7,7 h, calcule:
+a) El tiempo que tardará la sonda espacial en dar una vuelta completa.
+b) La masa de Marte y la aceleración de la gravedad en su superficie.
+Datos: Constante de Gravitación Universal G = 6,67x10-11 Nm2
+ kg-2
+Radio de Marte RM = 3390 km
+2003-Septiembre
+A. Problema 1.- Un satélite artificial de 100 kg de masa se encuentra girando alrededor de la
+Tierra en una órbita circular de 7100 km de radio. Determine:
+a) El periodo de revolución del satélite.
+b) El momento lineal y el momento angular del satélite respecto al centro de la Tierra.
+c) La variación de energía potencial que ha experimentado el satélite al elevarlo desde la
+2003-Septiembre
+superficie de la Tierra hasta esa posición. d) Las energías cinética y total del satélite.
+Datos: Masa de la Tierra MT= 5,98x 1024 kg
+Radio de la Tierra RT = 6,37 x 106
+ m
+Constante de Gravitación Universal G = 6,67x 10-11 N m2
+ kg-2
+2003-Junio
+Cuestión 1.- Suponiendo un planeta esférico que tiene un radio la mitad del radio terrestre e igual
+densidad que la Tierra, calcule:
+a) La aceleración de la gravedad en la superficie de dicho planeta.
+b) La velocidad de escape de un objeto desde la superficie del planeta, si la velocidad de escape
+desde la superficie terrestre es 11,2 km/s.
+Datos: Aceleración de la gravedad en la superficie de la Tierra g = 9,81 m s-2
+A. Problema 1.- Mercurio describe una órbita elíptica alrededor del Sol. En el afelio su distancia al
+Sol es de 6,99x1010 m, y su velocidad orbital es de 3,88x104
+ m/s, siendo su distancia al Sol en el
+perihelio de 4,60x 1010 m.
+a) Calcule la velocidad orbital de Mercurio en el perihelio.
+b) Calcule las energías cinética, potencial y mecánica de Mercurio en el perihelio.
+c) Calcule el módulo de su momento lineal y de su momento angular en el perihelio.
+d) De las magnitudes calculadas en los apartados anteriores, decir cuáles son iguales en el afelio.
+Datos: Masa de Mercurio MM = 3,18x1023 kg
+Masa del Sol MS= 1,99x1030 kg
+Constante de Gravitación Universal G = 6,67x 10-11 N m2
+ kg-2
+2003-Modelo
+Cuestión 1.- Un planeta esférico tiene una masa igual a 27 veces la masa de la Tierra, y la
+velocidad de escape para objetos situados cerca de su superficie es tres veces la velocidad de
+escape terrestre. Determine:
+a) La relación entre los radios del planeta y de la Tierra.
+b) La relación entre las intensidades de la gravedad en puntos de la superficie del planeta y de la
+Tierra.
+A. Problema 1.- Júpiter tiene aproximadamente una masa 320 veces mayor que la de la Tierra y
+un volumen 1320 veces superior al de la Tierra. Determine:
+a) A que altura h sobre la superficie de Júpiter debería encontrarse un satélite, en órbita circular en
+torno a este planeta, para que tuviera un período de 9 horas 50 minutos.
+b) La velocidad del satélite en dicha órbita.
+Datos: Gravedad en la superficie de la Tierra g=9,8 ms-2
+Radio medio de la Tierra RT=6,37x 106
+2002-Septiembre
+A. Problema 1 .- Se pretende colocar un satélite artificial de forma que gire en una órbita circular
+en el plano del ecuador terrestre y en el sentido de rotación de la Tierra. Si se quiere que el
+satélite pase periódicamente sobre un punto del ecuador cada dos días, calcule:
+a) La altura sobre la superficie terrestre a la que hay que colocar el satélite.
+b) La relación entre la energía que hay que comunicar a dicho satélite desde el momento de su
+lanzamiento en la superficie terrestre para colocarlo en esa órbita y la energía mínima de escape.
+Datos: Constante de Gravitación Universal: G = 6,67x 10-11 N m2
+ kg-2
+Radio de la Tierra: RT=6370 km
+Masa de la Tierra: MT=5,98x 1024 kg
+2002-Junio
+Cuestión 1.- Un planeta esférico tiene un radio de 3000 km, y la aceleración de la gravedad en su
+superficie es 6 m/s2
+. a) ¿Cuál es su densidad media? b) ¿Cual es la velocidad de escape para un
+objeto situado en la superficie de este planeta?
+Dato: Constante de Gravitación Universal: G = 6,67x 10-11 N m2
+ kg-2
+A. Problema 1.- La velocidad angular con la que un satélite describe una órbita circular en torno al
+planeta Venus es ω1=1,45x10-4 rad/s y su momento angular respecto al centro de la órbita es
+L1=2,2x1012 kg m2
+ s-1
+a) Determine el radio r1 de la órbita del satélite y su masa.
+b) ¿Qué energía sería preciso invertir para cambiar a otra órbita circular con velocidad angular
+ω2=10-4 rad/s?
+Datos: Constante de Gravitación Universal: G = 6,67x 10-11 N m2
+ kg-2
+2003-Septiembre
+Masa de Venus: MV=4,87x 1024 kg
+2002-Modelo
+Cuestión 1.- a) ¿A qué altitud tendrá una persona la mitad del peso que tiene sobre la superficie
+terrestre? Exprese el resultado en función del radio terrestre.
+b) Si la fuerza de la gravedad actúa sobre todos los cuerpos en proporción a sus masas, ¿por qué
+no cae un cuerpo pesado con mayor aceleración que un cuerpo ligero?
+A. Problema 1.- Dos planetas de masas iguales orbitan alrededor de una estrella de masa mucho
+mayor,. El planeta 1 se mueve en una órbita circular de radio 1011 m y período de 2 años. El
+planeta 2 se mueve en una órbita elíptica, siendo su distancia en la posición más próxima a la
+estrella 1011 m y en la más alejada 1,8x1011 m.
+a) ¿Cuál es la masa de la estrella?
+b) Halle el período de la órbita del planeta 2.
+c) Utilizando los principios de conservación del momento angular y de la energía mecánica, hallar
+la velocidad del planeta 2 cuando se encuentra en la posición más cercana a la estrella.
+Datos: Constante de Gravitación Universal: G = 6,67x 10-11 N m2
+ kg-2
+2001-Septiembre
+Cuestión 1.- Un proyectil de masa 10 kg se dispara verticalmente desde la superficie de la Tierra
+con una velocidad de 3200 m/s:
+a) ¿Cuál es la máxima energía potencial que adquiere?
+b) ¿En qué posición se alcanza?
+Datos: Gravedad en la superficie de la Tierra = 9,8 m s-2; Radio medio de la Tierra = 6,37x106
+ m
+2001-Junio
+Cuestión 1.- En el movimiento circular de un satélite en torno a la Tierra, determine:
+a) La expresión de la energía cinética en función de las masas del satélite y de la Tierra y del radio
+de la órbita.
+b) La relación que existe entre su energía mecánica y su energía potencial.
+A. Problema 1.- Dos satélites artificiales de la Tierra S1 y S2 describen en un sistema de
+referencia geocéntrico dos órbitas circulares, contenidas en un mismo plano, de radios r1=8000 km
+y r2=9034 km respectivamente. En un instante inicial dado, los satélites están alineados con el
+centro de la Tierra y situados del mismo lado:
+a) ¿Qué relación existe entre las velocidades orbitales de ambos satélites?
+b) ¿Qué relación existe entre los períodos orbitales de los satélites? ¿Qué posición ocupará el
+satélite S2 cuando el satélite S1 haya completado seis vueltas, desde el instante inicial?
+2001-Modelo
+Cuestión 1.- Determine la relación que existe entre la energía mecánica de un satélite que
+describe una órbita circular en torno a un planeta y su energía potencial.
+A. Problema 1.- El período de revolución del planeta Júpiter en su órbita alrededor del Sol es
+aproximadamente 12 veces mayor que el de la Tierra en su correspondiente órbita. Considerando
+circulares las órbitas de los dos planetas, determine:
+a) La razón entre los radios de las respectivas órbitas.
+b) La razón entre las aceleraciones de los dos planetas en sus respectivas órbitas.
+2000-Septiembre
+Cuestión 1.- a) ¿Con qué frecuencia angular debe girar un satélite de comunicaciones, situado en
+una órbita ecuatorial, para que se encuentre siempre sobre el mismo punto de la Tierra?
+b) ¿A qué altura sobre la superficie terrestre se encontrará el satélite citado en el apartado
+anterior?
+Datos: Gravedad en la superficie de la Tierra = 9,8 m s-2 ; Radio medio de la Tierra = 6,37 x 106
+ m
+A. Problema 1.- Un satélite artificial de 200 kg gira en una órbita circular a una altura h sobre la
+superficie de la Tierra. Sabiendo que a esa altura el valor de la aceleración de la gravedad es la
+mitad del valor que tiene en la superficie terrestre, averiguar:
+a) La velocidad del satélite.
+b) Su energía mecánica.
+Datos: Gravedad en la superficie terrestre g = 9,8 m s-2 ; Radio medio de la Tierra R = 6,37x 106
+ m
+2000-Junio
+Cuestión 1.- a) Enuncie la primera y la segunda ley de Kepler sobre el movimiento planetario.
+b) Compruebe que la segunda ley de Kepler es un caso particular del teorema de conservación
+del momento angular.
+2003-Septiembre
+A. Problema 1- Se pone en órbita un satélite artificial de 600 kg a una altura de 1200 km sobre la
+superficie de la Tierra. Si el lanzamiento se ha realizado desde el nivel del mar, calcule:
+a) Cuánto ha aumentado la energía potencial gravitatoria del satélite.
+b) Qué energía adicional hay que suministrar al satélite para que escape a la acción del campo
+gravitatorio terrestre desde esa órbita.
+Datos: Constante de Gravitación G = 6,67x 10-11 Nm2
+kg-2
+Masa de la Tierra MT = 5,98x1024 kg
+Radio medio de la Tierra RT = 6,37x 106
+ m
+2000-Modelo
+Cuestión 1.- El cometa Halley se mueve en una órbita elíptica alrededor del Sol. En el perihelio
+(posición más próxima) el cometa está a 8,75x107
+ km del Sol y en el afelio (posición más alejada)
+está a 5,26x109
+ km del Sol.
+a) ¿En cuál de los dos puntos tiene el cometa mayor velocidad? ¿Y mayor aceleración?
+b) ¿En qué punto tiene mayor energía potencial? ¿Y mayor energía mecánica?
+A. Problema 1.- Se coloca un satélite meteorológico de 1000 kg en órbita circular, a 300 km sobre
+la superficie terrestre. Determine:
+a) La velocidad lineal, la aceleración radial y el periodo en la órbita.
+b) El trabajo que se requiere para poner en órbita el satélite.
+Datos: Gravedad en ta superficie terrestre g = 9,8 m s-2
+Radio medio terrestre RT = 6370 km
