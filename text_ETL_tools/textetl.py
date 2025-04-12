@@ -31,6 +31,7 @@ class TextETL:
         with open("./gravi_limpio.txt", 'w', encoding='utf-8') as modified_file:
             modified_file.writelines(filtered_lines)
 
+    # TODO: queda pendiente separar_problemas como método separado o como parte de limpiar_problemas?
     def separar_problemas(self, source_txt, match_regex):
         """Separates problems in the source text based on a regex pattern."""
         with open(source_txt, 'r', encoding='utf-8') as input_file:

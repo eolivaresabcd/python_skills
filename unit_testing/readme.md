@@ -4,4 +4,4 @@ BEST PRACTICES:
 - tests should be independent from one another
 - TDD is based on writing tests before writing the code (complicated to master)
 
-#TODO: next mission yugioh api pdf card maker! :D
+Next mission yugioh api pdf card maker! :D
