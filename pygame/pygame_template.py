@@ -23,6 +23,8 @@ screen = pygame.display.set_mode((W, H)) # Create a window with the specified wi
 pygame.display.set_caption("Pygame Template") # Set the window title
 pygame.time.Clock() # Create a clock object to control the frame rate
 
+all_sprites = pygame.sprite.Group() # Create a group to hold all sprites
+
 # GAME LOOP
 running = True # Variable to control the game loop
 while running:
@@ -41,9 +43,12 @@ while running:
 
     # UPDATE THE GAME STATE
 
+    all_sprites.update() # Update all sprites in the group
+
     # RENDER THE GAME
 
     screen.fill(CYAN) # Fill the screen with black color
+    all_sprites.draw(screen) # Draw all sprites in the group on the screen
     # after drawing everything, flip the display
     pygame.display.flip() # Update the display
 
